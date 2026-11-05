@@ -1,0 +1,6 @@
+{
+  "name": "BiblioLab - Gestão de Biblioteca e Laboratórios",
+  "description": "Plataforma escolar para reserva de livros com prazos de entrega e agendamento de laboratórios de informática com calendário interativo para alunos e professores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
